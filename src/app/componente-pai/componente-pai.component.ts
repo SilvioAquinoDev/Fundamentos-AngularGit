@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class ComponentePaiComponent {
   sobrenome = "Aquino"
+
+  mostrarNomeCompleto(nomeCompleto: any){
+    alert(`O nome completo é: ${nomeCompleto}`)
+  }
 }
