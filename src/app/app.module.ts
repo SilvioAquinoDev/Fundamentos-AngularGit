@@ -14,6 +14,7 @@ import { ComponentePaiComponent } from './componente-pai/componente-pai.componen
 import { Servico01Component } from './servico01/servico01.component';
 import { Servico02Component } from './servico02/servico02.component';
 import { CicloDeVidaComponent } from './ciclo-de-vida/ciclo-de-vida.component';
+import { TesteNovaBranchComponent } from './teste-nova-branch/teste-nova-branch.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { CicloDeVidaComponent } from './ciclo-de-vida/ciclo-de-vida.component';
     ComponentePaiComponent,
     Servico01Component,
     Servico02Component,
-    CicloDeVidaComponent
+    CicloDeVidaComponent,
+    TesteNovaBranchComponent
   ],
   imports: [
     BrowserModule,
