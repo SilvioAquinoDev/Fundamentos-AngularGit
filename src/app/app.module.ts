@@ -14,7 +14,6 @@ import { ComponentePaiComponent } from './componente-pai/componente-pai.componen
 import { Servico01Component } from './servico01/servico01.component';
 import { Servico02Component } from './servico02/servico02.component';
 import { CicloDeVidaComponent } from './ciclo-de-vida/ciclo-de-vida.component';
-import { TesteNovaBranchComponent } from './teste-nova-branch/teste-nova-branch.component';
 import { CicloDeVidaPaiComponent } from './ciclo-de-vida-pai/ciclo-de-vida-pai.component';
 import { CardComponent } from './card/card.component';
 
@@ -32,7 +31,6 @@ import { CardComponent } from './card/card.component';
     Servico01Component,
     Servico02Component,
     CicloDeVidaComponent,
-    TesteNovaBranchComponent,
     CicloDeVidaPaiComponent,
     CardComponent
   ],
